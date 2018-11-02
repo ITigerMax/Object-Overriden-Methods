@@ -1,4 +1,4 @@
-package tests;
+package com.l4g.overriden_methods;
 
 import java.util.HashSet;
 import java.util.Set;
